@@ -1,0 +1,2 @@
+class block:
+	def __init__(self, index, transacito
